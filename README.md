@@ -24,7 +24,7 @@ I'm a 19-year-old, Computer Science student at Taras Shevchenko University. Pass
 - **PostgreSQL**, **MongoDB**
 
 #### Other Tools
-- **WordPress**, **Docker**, **Jira**
+- **WordPress**, **Docker**, **AWS**, **Jira**
 
 ---
 
