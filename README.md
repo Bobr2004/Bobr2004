@@ -1,12 +1,12 @@
 ## 👋 Hi, I'm Bohdan Shovkoplias
 
-I'm a 19-year-old, 3rd-year Computer Science student at Taras Shevchenko University. Passionate about front-end development and agile project management. I enjoy diving into both front-end and back-end technologies, always looking to improve my project planning and team collaboration skills.
+I'm a 19-year-old, Computer Science student at Taras Shevchenko University. Passionate about front-end development and agile project management. I enjoy diving into both front-end and back-end technologies, always looking to improve my project planning and team collaboration skills.
 
 ---
 
 ### 👨‍💻 About Me
 - 💼 Strong foundation in both front-end and back-end development, with bigger focus on front-end part.
-- 🎓 Studying Computer Science at Taras Shevchenko University, where I take on new challenges and work on innovative projects.
+- 🎓 Studying Computer Science at Taras Shevchenko University.
 
 ---
 
