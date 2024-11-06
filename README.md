@@ -1,13 +1,13 @@
 ## 👋 Hi, I'm Bohdan Shovkoplias
 
-I'm a 19-year-old, 3rd-year Computer Science student at Taras Shevchenko University. Passionate about front-end development, I aim to create efficient, user-friendly applications. I enjoy diving deep into both front-end and back-end technologies, with a keen interest in advancing my knowledge in cloud platforms and modern web frameworks.
+I'm a 19-year-old, 3rd-year Computer Science student at Taras Shevchenko University. Passionate about front-end development and agile project management, I strive to create efficient, user-centered applications. I enjoy diving into both front-end and back-end technologies, always looking to improve my project planning and team collaboration skills.
 
 ---
 
 ### 👨‍💻 About Me
-- 🌱 I’m currently expanding my skills with **Remix** and **AWS**.
-- 💼 I'm skilled in both front-end and back-end development, with a primary focus on front-end.
-- 🎓 Studying at Taras Shevchenko University in Computer Science, I enjoy tackling new challenges and working on innovative projects.
+- 🌱 Currently expanding my skills with **Remix** and exploring advanced **Agile methodologies**.
+- 💼 Strong foundation in both front-end and back-end development, with a focus on creating user-friendly applications.
+- 🎓 Studying Computer Science at Taras Shevchenko University, where I take on new challenges and work on innovative projects.
 
 ---
 
@@ -25,18 +25,24 @@ I'm a 19-year-old, 3rd-year Computer Science student at Taras Shevchenko Univers
 - **PostgreSQL**, **MongoDB**
 
 #### Other Tools
-- **WordPress**, **Docker**
+- **WordPress**, **Docker**, **Jira**
 
 ---
 
 ### 🌱 Currently Learning
 - **Remix** - Exploring modern, server-rendered React frameworks.
-- **AWS** - Getting hands-on with cloud services to expand deployment and scaling capabilities.
+- **Agile Project Management** - Deepening my understanding of agile principles to improve project efficiency and teamwork.
+
+---
+
+### ⚙️ Project Management Skills
+- **Agile methodologies** - Passionate about using agile frameworks to optimize project flow and team collaboration.
+- **Jira** - Skilled in Jira for sprint planning, issue tracking, and team coordination.
 
 ---
 
 ### 📫 Let's Connect!
-Feel free to reach out if you'd like to collaborate or discuss tech!
+Feel free to reach out if you'd like to collaborate, share ideas, or discuss agile practices and development!
 
 <!--
 **Bobr2004/Bobr2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
