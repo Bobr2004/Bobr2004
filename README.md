@@ -1,36 +1,14 @@
 ## 👋 Hi, I'm Bohdan Shovkoplias
 
-I'm a 19-year-old, Computer Science student at Taras Shevchenko University. Passionate about front-end development and agile project management. I enjoy diving into both front-end and back-end technologies, always looking to improve my project planning and team collaboration skills.
+I'm a 21-year-old, front-end developer and computer science student at Taras Shevchenko University of Kyiv. 
+
+#### My stack
+- JavaScript, TypeScript, React, Next.js, Redux, RTK, Tanstack query, Zustand, Tailwind, HTML, CSS
+
+I consider myself a tech nerd and I am always the first to test the new bleeding edge promising things like: Bun, Hono, Astro, Svelte, Solid, Tanstack Start and others. Also I am extremely nerdy about all the AI tools and news that happen there: Claude code, OpenCode, Codex, Cursor all of that
 
 ---
 
-### 👨‍💻 About Me
-- 💼 Strong foundation in both front-end and back-end development, with bigger focus on front-end part.
-- 🎓 Studying Computer Science at Taras Shevchenko University.
-
----
-
-### 🔧 Languages & Technologies
-
-#### Languages
-- **TypeScript**, **JavaScript**, **Python**, **PHP**
-
-#### Front-End
-- **React** (with **RTK**, **Zustand**, **React Query**, **Remix**)
-- **Vue** (with **UseVue**,**Pinia**, **Vue Query**)
-
-#### Back-End
-- **Firebase**, **Node.js**, **Express**, **Bun**
-- **PostgreSQL**, **MongoDB**
-
-#### Other Tools
-- **WordPress**, **Docker**, **AWS**, **Jira**
-
----
-
-### 🌱 Currently Learning
-- **Remix** - Exploring modern, server-rendered React frameworks.
-- **Agile Project Management** - Deepening my understanding of agile principles to improve project efficiency and teamwork.
 <!--
 **Bobr2004/Bobr2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
