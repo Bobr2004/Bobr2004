@@ -5,7 +5,7 @@ I'm a 21-year-old, front-end developer and computer science student at Taras She
 #### My stack
 - JavaScript, TypeScript, React, Next.js, Redux, RTK, Tanstack query, Zustand, Tailwind, HTML, CSS
 
-I consider myself a tech nerd and I am always the first to test the new bleeding edge promising things like: Bun, Hono, Astro, Svelte, Solid, Tanstack Start and others. Also I am extremely nerdy about all the AI tools and news that happen there: Claude code, OpenCode, Codex, Cursor all of that
+I consider myself a tech nerd and I am always the first to test the new bleeding edge promising things like: Bun, Hono, Astro, Svelte, Solid, Tanstack Start and others. I’m also really into everything happening in AI, constantly keeping up with tools and news around things like Claude code, OpenCode, Codex, Cursor all of that
 
 ---
 
